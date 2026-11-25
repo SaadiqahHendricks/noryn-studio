@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://noryn-studio.netlify.app/sitemap.xml
+Sitemap: https://norynstudio.co.za/sitemap.xml
